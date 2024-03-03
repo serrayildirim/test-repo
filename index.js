@@ -24,7 +24,7 @@ function hesapMakinesi(islem, sayi1, sayi2) {
 }
 
 // Hesap makinesi kullanımı
-hesapMakinesi('toplama', 5, 3); // Sonuç: 8
+hesapMakinesi('toplama', 125, 23); // Sonuç: 148
 hesapMakinesi('cikarma', 10, 4); // Sonuç: 6
 hesapMakinesi('carpma', 2, 6); // Sonuç: 12
 hesapMakinesi('bolme', 15, 3); // Sonuç: 5
